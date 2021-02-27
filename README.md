@@ -1,3 +1,2 @@
-<p>Tamilselvan resume</p>
-
-https://tamilvjm.github.io/tamilselvanbits.github.io/
+<p>Tamilselvan profile</p>
+<p>Github io hosted on https://tamilvjm.github.io/   </p>
